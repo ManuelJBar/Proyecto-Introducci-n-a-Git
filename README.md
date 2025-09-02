@@ -1,2 +1,3 @@
 # Mi Proyecto en Git
-# Cambio
+# Conectar y actualizar
+
